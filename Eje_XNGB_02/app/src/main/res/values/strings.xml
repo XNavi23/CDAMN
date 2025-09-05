@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eje_XNGB_02</string>
+    <string name="hola_mundo">¡Hola Mundo!</string>
+    <string name="mensaje">Cambiar mensaje</string>
+    <string name="Salir">Cerrar aplicación</string>
+    <string name="hola_usuario">¡Hola, soy Navier!</string>
+</resources>
