@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eje_XNGB_03</string>
+    <string name="hint_metros">Ingrese la cantidad de metros</string>
+    <string name="Metros">Metros</string>
+    <string name="hint_pies">Ingrese la cantidad de pies</string>
+    <string name="btn_tx_metros">Metros</string>
+    <string name="btn_tx_pies">Pies</string>
+    <string name="tvpies">Pies</string>
+</resources>
