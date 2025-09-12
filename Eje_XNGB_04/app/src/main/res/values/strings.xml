@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Eje_XNGB_04</string>
+    <string name="tx_numOp">0</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_sumar">Sumar</string>
+</resources>
