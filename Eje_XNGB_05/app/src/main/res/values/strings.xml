@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eje_XNGB_05</string>
+    <string name="tx_num1">Ingrese numero</string>
+    <string name="tv_num2">Ingrese numero</string>
+    <string name="et_num1">Ingrese numero</string>
+    <string name="et_num2">Ingrese un numero</string>
+</resources>

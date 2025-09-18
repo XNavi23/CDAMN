@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eje_XNGB_06</string>
+    <string name="texto_display">0</string>
+    <string name="btn_tx_7">7</string>
+    <string name="btn_tx_8">8</string>
+    <string name="btn_txt_9">9</string>
+    <string name="btn_tx_mas">+</string>
+    <string name="btn_tx_4">4</string>
+    <string name="btn_tx_5">5</string>
+    <string name="btn_tx_6">6</string>
+    <string name="btn_tx_menos">-</string>
+    <string name="btn_tx_1">1</string>
+    <string name="btn_tx_2">2</string>
+    <string name="btn_tx_3">3</string>
+    <string name="btn_tx_division">/</string>
+</resources>
