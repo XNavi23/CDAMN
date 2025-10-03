@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FBF3B0"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"></LinearLayout>
+    <LinearLayout
+        android:layout_width="347dp"
+        android:layout_height="65dp"
+        android:background="#DAFFB5"
+        android:orientation="vertical"
+        app:layout_marginBaseline="10sp"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="381dp"
+        android:layout_height="116dp"
+        android:background="#FBC779"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="88dp">
+
+    <HorizontalScrollView
+        android:layout_width="342dp"
+        android:layout_height="88dp"
+        android:layout_margin="10sp"
+        android:background="#FFFFFF"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="105dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></ImageView>
+    </HorizontalScrollView>
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical">-->
+<!--        <ImageView-->
+<!--            android:layout_width="100dp"-->
+<!--            android:layout_height="100dp"-->
+<!--            android:src="@drawable/lupa-icon">-->
+<!--        </ImageView>-->
+<!--    </LinearLayout>-->
+
+    <LinearLayout
+        android:layout_width="373dp"
+        android:layout_height="482dp"
+        android:background="#87DBFF"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="227dp"></LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

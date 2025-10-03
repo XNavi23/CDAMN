@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EXAM_XNGB_01</string>
+    <string name="btn_agregar_main">Agregar</string>
+    <string name="btn_actualizar_main">Actualizar</string>
+    <string name="btn_eliminar_main">Eliminar</string>
+    <string name="btn_creditos_main">Créditos</string>
+    <string name="btn_salir_main">Salir</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eje_xngb_08</string>
+    <string name="et_usuario">Nombre</string>
+    <string name="et_clave">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_cerrar">Cerrar</string>
+    <string name="tv_nombre3">Nombre</string>
+    <string name="btn_regresar3">Regresar</string>
+</resources>
