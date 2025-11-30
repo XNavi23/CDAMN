@@ -4,4 +4,5 @@
     <string name="tv_num2">Ingrese numero</string>
     <string name="et_num1">Ingrese numero</string>
     <string name="et_num2">Ingrese un numero</string>
+    <string name="tv_resultado">Resultado</string>
 </resources>
